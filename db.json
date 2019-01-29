@@ -1,6 +1,6 @@
 {
-"products" : {
-  "accommodation" : {
+"products" : [{
+  "accommodation" : [{
     "hotels" : [
     {
       "name":"Llechwen Hall Hotel",
@@ -64,7 +64,7 @@
     }
   ],
 
-  "guestHouse" : [
+  "guestHouses" : [
   {
     "name":"The Granary",
     "id":"006",
@@ -114,6 +114,6 @@
     "pets":false
   }
 ]
-  }
-}
+  }]
+}]
 }
