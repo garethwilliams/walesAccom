@@ -1,6 +1,6 @@
 {
-"products" : [{
-  "accommodation" : [{
+"products" : {
+  "accommodation" : {
     "hotels" : [
     {
       "name":"Llechwen Hall Hotel",
@@ -114,6 +114,6 @@
     "pets":false
   }
 ]
-  }]
-}]
+  }
+}
 }
