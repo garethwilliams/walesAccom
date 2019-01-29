@@ -1,0 +1,119 @@
+{
+"products" : {
+  "accommodation" : {
+    "hotels" : [
+    {
+      "name":"Llechwen Hall Hotel",
+      "id":"001",
+      "description":"Llechwen Hall is a privately owned, historic, country house hotel that has everything to offer. Whether your trip is for the magnificent views, the exceptional food or just for business, at Llechwen Hall we strive to cater to your needs.",
+      "county":"Caerphilly",
+      "postcode":"CF37 4HP",
+      "location":"",
+      "price":"129",
+      "rating":"3",
+      "children":true,
+      "pets":true
+    },
+    {
+      "name":"The Manor House- Celtic Manor Resort",
+      "id":"002",
+      "description":"The Manor House is set in glorious landscaped gardens, with its own parking and direct access to The Resort Hotel.",
+      "county":"Newport",
+      "location":"",
+      "postcode":"NP18 1HQ",
+      "price":"75",
+      "rating":"4",
+      "children":true,
+      "pets":false
+    },
+    {
+      "name":"Park Plaza Hotel",
+      "id":"003",
+      "description":"The Park Plaza is a luxury four star contemporary styled hotel located in the heart of the city centre. 129 stylish fully air-conditioned guestrooms including mini-bar, lap top safe and free high speed internet access.",
+      "county":"Cardiff",
+      "location":"",
+      "postcode":"CF10 3AL",
+      "price":"329",
+      "rating":"4",
+      "children":true,
+      "pets":true
+    },
+    {
+      "name":"Ruthin Castle Hotel & Spa",
+      "id":"004",
+      "description":"A beautifully romantic hotel - originally built by Edward I in 1282 - Ruthin Castle is nestled within acres of parkland with exquisite dining, distinctive spa and unique venues for weddings, celebrations, conferencing and events.",
+      "county":"Denbighshire",
+      "location":"",
+      "postcode":"LL15 2NU",
+      "price":"190",
+      "rating":"4",
+      "children":true,
+      "pets":false
+    },
+    {
+      "name":"The Metropole Hotel",
+      "id":"005",
+      "description":"The Metropole Hotel is located in the beautiful Spa town of Llandrindod Wells in the Heart of Wales. Built by the Great Grandmother of the present Managing Director in 1897, the hotel has been run by the family for 5 generations. Renowned for its' warm and friendly atmosphere, comfortable accommodation and superb cuisine.",
+      "county":"Powys",
+      "location":"",
+      "postcode":"LD1 5DY,",
+      "price":"98",
+      "rating":"4",
+      "children":true,
+      "pets":true
+    }
+  ],
+
+  "guestHouse" : [
+  {
+    "name":"The Granary",
+    "id":"006",
+    "description":"he Granary is a newly converted barn situated at the foot of the Black Mountains in the Brecon Beacons National Park.",
+    "county":"Powys",
+    "postcode":" LD3 0DY,",
+    "location":"",
+    "price":"75",
+    "rating":"5",
+    "children":true,
+    "pets":false
+  },
+  {
+    "name":"Glandyfi Castle",
+    "id":"007",
+    "description":"Glandyfi Castle is a Grade 2 listed Regency gothic revival castle set high above the Dyfi estuary with dramatic views of the estuary and sea beyond.",
+    "county":"Ceredigion",
+    "location":"",
+    "postcode":"SY20 8SS",
+    "price":"100",
+    "rating":"5",
+    "children":false,
+    "pets":false
+  },
+  {
+    "name":"Fields Lodge",
+    "id":"008",
+    "description":"A contemporary environment in a traditional setting-Fileds Lodge is a 4 bedroom bungalow set in its own grounds on the edge of the quiet village of Herbrandston on the Pembrokeshire Coastal Path. All rooms have ensuite or private facilities and have all the comforts you would look for whilst on a stay away.",
+    "county":"Pembrokeshire",
+    "location":"",
+    "postcode":"SA73 3TE",
+    "price":"37",
+    "rating":"4",
+    "children":false,
+    "pets":false
+  },
+  {
+    "name":"Between The Bays",
+    "id":"004",
+    "description":"Hotel are opening a new guest house and here to welcome old and new guests to Between the Bays, which is situated between the west shore and the north shore. Between the Bays was fully renovated into a 6 bedroom all ensuite guest house. Free parking is available for guest's.",
+    "county":"Conwy",
+    "location":"",
+    "postcode":"LL30 2DN",
+    "price":"50",
+    "rating":"5",
+    "children":true,
+    "pets":false
+  }
+]
+  }
+}
+}
